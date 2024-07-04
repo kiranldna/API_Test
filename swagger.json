@@ -8,7 +8,7 @@
     "host": "api.resilinc.com",
     "basePath": "/v1",
     "schemes": [
-        "https"
+        "http"
     ],
     "consumes": [
         "application/json",
